@@ -38,10 +38,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/noe-busson/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=mail.ru&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://matrix.to/#/@nbusson:matrix.gabb.fr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matrix logo"  />
+  </a>
+  <a href="https://bsky.app/profile/noway.sky.gabb.fr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=1083FE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bluesky logo"  />
   </a>
 </div>
 
