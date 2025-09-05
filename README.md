@@ -19,7 +19,7 @@
   <a href="https://matrix.to/#/@nbusson:matrix.gabb.fr" target="_blank">
     <img src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white" height="35" alt="Matrix" />
   </a>
-  <a href="https://bsky.app/profile/noway.sky.gabb.fr" target="_blank">
+  <a href="https://bsky.app/profile/noway.gabb.fr" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-1083FE?style=for-the-badge&logo=bluesky&logoColor=white" height="35" alt="Bluesky" />
   </a>
 </div>
