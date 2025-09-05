@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Noé from France</h2>
+<h2 align="left">Hi 👋! I'm Noé</h2>
 
 ---
 
